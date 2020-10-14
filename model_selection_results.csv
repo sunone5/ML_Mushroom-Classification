@@ -1,0 +1,6 @@
+,model,accuracy score,F1 score,time,threshold,features
+0,Logistic Regression,1.0,1.0,0.10552334785461426,0,112
+1,Decision Tree,1.0,1.0,0.02599501609802246,0,112
+2,Random Forest,1.0,1.0,0.1483018398284912,0,112
+3,K-Nearest Neighbors,1.0,1.0,2.5732603073120117,0,112
+4,Linear SVM,1.0,1.0,10.365888595581055,0,112
